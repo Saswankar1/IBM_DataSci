@@ -1,3 +1,3 @@
 # IBM_DataSci
 
-target: Conversion_Status
+target VAR: Conversion_Status
