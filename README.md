@@ -1,2 +1,2 @@
-# IBM_DataSci
+# IBM DataSci
 
